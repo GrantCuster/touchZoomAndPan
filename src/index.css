@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: black;
+  color: white;
+}
+
+body {
+  margin: 0;
+  font-size: 13.33px;
+  line-height: 18px;
+  font-family: "JetBrains Mono", source-code-pro, Menlo, Monaco, Consolas,
+    "Courier New", monospace;
+  user-select: none;
+}
+
+.pointer {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 96px;
+  height: 96px;
+  pointer-events: none;
+  margin-left: -48px;
+  margin-top: -48px;
+  background: white;
+  border-radius: 100%;
+  color: black;
+  text-align: center;
+  line-height: 96px;
+  opacity: 0.5;
+}
+.p1 {
+  background: cyan;
+}
+.p2 {
+  background: magenta;
+}
+.p3 {
+  background: yellow;
+}
+
+a {
+  color: inherit;
+  pointer-events: auto;
+}
