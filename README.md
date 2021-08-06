@@ -1,12 +1,8 @@
 # Pointer events demo
 
-Live demo at https://grantcuster.github.io/pointerEvents
+Live demo at https://grantcuster.github.io/touchZoomAndPan
 
-A minimal demo exploring how to handle mouse and touch events consistently using pointer events. It handles up to three touches at a time. It preserves touch order (which you may or may not want to do, depending on the situation).
-
-This demo is built within React, though it uses refs to mainly work outside the React render loop.
-
-For more info on handling pointer events see https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events/Using_Pointer_Events.
+A minimal-ish demo where I work through how to do two-finger pan and zoom with pointerEvents using three.js and in React. The pan and zoom works well but the code got messier than I intended and I'll probably take another run at it again someday soon.
 
 # Create React App
 
