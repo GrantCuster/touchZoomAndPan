@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/touchZoomAndPan/static/css/main.03c0e748.chunk.css",
+    "main.js": "/touchZoomAndPan/static/js/main.c8d8188c.chunk.js",
+    "main.js.map": "/touchZoomAndPan/static/js/main.c8d8188c.chunk.js.map",
+    "runtime-main.js": "/touchZoomAndPan/static/js/runtime-main.988819f4.js",
+    "runtime-main.js.map": "/touchZoomAndPan/static/js/runtime-main.988819f4.js.map",
+    "static/js/2.f701ff58.chunk.js": "/touchZoomAndPan/static/js/2.f701ff58.chunk.js",
+    "static/js/2.f701ff58.chunk.js.map": "/touchZoomAndPan/static/js/2.f701ff58.chunk.js.map",
+    "static/js/3.669bbc23.chunk.js": "/touchZoomAndPan/static/js/3.669bbc23.chunk.js",
+    "static/js/3.669bbc23.chunk.js.map": "/touchZoomAndPan/static/js/3.669bbc23.chunk.js.map",
+    "index.html": "/touchZoomAndPan/index.html",
+    "static/css/main.03c0e748.chunk.css.map": "/touchZoomAndPan/static/css/main.03c0e748.chunk.css.map",
+    "static/js/2.f701ff58.chunk.js.LICENSE.txt": "/touchZoomAndPan/static/js/2.f701ff58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.988819f4.js",
+    "static/js/2.f701ff58.chunk.js",
+    "static/css/main.03c0e748.chunk.css",
+    "static/js/main.c8d8188c.chunk.js"
+  ]
+}
