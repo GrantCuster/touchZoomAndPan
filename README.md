@@ -1,4 +1,4 @@
-# Pointer events demo
+# Two-finger pan and zoom demo with three.js and React
 
 Live demo at https://grantcuster.github.io/touchZoomAndPan
 
